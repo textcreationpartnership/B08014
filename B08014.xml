@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A most rare &amp; true report, of such great tempests, straunge sightes, and wonderfull accidents, which happened by the prouidence of God, in Hereford shire, at a place called the Hay, and there abouts, besides the sightes of strannge [sic] fowles, which there were seene, most fearefull to beholde, with their horrible cryes &amp; strangeness, with the great hurt was done by them..</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1585</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08014</idno>
+            <idno type="STC">STC 20889.5</idno>
+            <idno type="STC">ESTC S94870</idno>
+            <idno type="EEBO-CITATION">71305162</idno>
+            <idno type="OCLC">ocm 71305162</idno>
+            <idno type="VID">183892</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08014)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183892)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2207:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A most rare &amp; true report, of such great tempests, straunge sightes, and wonderfull accidents, which happened by the prouidence of God, in Hereford shire, at a place called the Hay, and there abouts, besides the sightes of strannge [sic] fowles, which there were seene, most fearefull to beholde, with their horrible cryes &amp; strangeness, with the great hurt was done by them..</title>
+                  <author>Law, Thomas, fl. 1585-1589?, pub.</author>
+               </titleStmt>
+               <extent>[5]  p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Imprinted for Thomas Law.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1585..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴ (A₄ blank).</note>
+                  <note>Woodcut ill. on t.p.; initial.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in: Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Omens --  Religious aspects --  Christianity --  Early works to 1800.</term>
+               <term>Rainstorms --  Wales --  Early works to 1800.</term>
+               <term>Hay (Wales) --  History --  16th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:183892:1"/>
+            <pb facs="tcp:183892:1" rendition="simple:additions"/>
+            <p>A moſt rare &amp; true report, of ſuch great tempeſts, <hi>ſtraunge ſightes, and wonderfull accidents, which</hi> happened by the prouidence of God, in Hereford<g ref="char:EOLunhyphen"/>ſhire, at a place called the Hay, and there abouts, be<g ref="char:EOLhyphen"/>ſides the ſightes of ſtraunge Fowles, which there were ſeene, moſt fearefull to beholde, with their horrible cryes &amp; ſtrangenes, with the great hurt was done by them.</p>
+            <figure/>
+            <p>LONDON Imprinted for Thomas Law. 1585.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:183892:2"/>
+            <pb facs="tcp:183892:2"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Math.</hi> 3.</bibl>
+                  <p>Amend your liues, for the kingdome of God is at hand.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>F beloued, the ſundrie and manifold examples of Gods indignation powred vpon vs, which we through our intol<g ref="char:EOLhyphen"/>lerable heapes of iniquities haue deſerued be extinct, and that through his owne intyre mercy and vnſpeakeable cle<g ref="char:EOLhyphen"/>mencie withdrawing his hea<g ref="char:EOLhyphen"/>uie diſpleaſure, from our heads, we become forget<g ref="char:EOLhyphen"/>ful of his goodnes ſleeping in ſinne, drencht in the depth of our deſires, and wallowing in iniquities. Let this rare and wonderfull ſpectacle of our vtter decaie, and ruinous ſubuerſion be an admonition, a caueat, yea and an alarum to awake vs from our ſinful and ſluggiſh ſléeping, leaſt the condigne wrath of our Lord and ſauiour come vpon vs before we bée aware, but vnwares we cannot account it, in ſo<g ref="char:EOLhyphen"/>much as he ſendeth, giueth, and ſheweth innumera<g ref="char:EOLhyphen"/>ble ſignes of his heauie diſpleaſure euen in a mo<g ref="char:EOLunhyphen"/>ment to fall vpon vs, aſwell in other ſignes as in this ſight, the very report wherof but little read, and lightly regarded, may be ſufficient to reclaime the moſt ſinnefull, and hard harted creature.</p>
+            <p>On Saterday being the 25. of September, laſt paſt, at the Hay in Herefordſhier was ſene ſo rare a ſight as neither our forefathers haue knowne, nor we our ſelues heard of. For there aroſe ſodenlye a moſt wonderfull and cruell tempeſt, with ſuch a<g ref="char:EOLhyphen"/>boundant high waters, that the whole countrie was
+<pb facs="tcp:183892:3"/> not onely greatly amazed therwith, but alſo in dan<g ref="char:EOLhyphen"/>ger of drowning: beſides the loſſe of great and plen<g ref="char:EOLhyphen"/>teous ſtore of Corne and Cattell, wherewith they were indued: at which inſtant there appeared alſo a moſt wonderfull and dreadfull ſight of two great cloudes, the one being blacke, which ariſing, iſſued from the North the other being white, came from the South part, which meeting together ſeemed, to rend the Skie with their ratling, in ſuch vnuſuall ſort, that it brought a moſt rare and terrible terrour to the beholders. In the middeſt of which cloudes, oppoſite with the earth did viſibly appeare, there ſi<g ref="char:EOLhyphen"/>tuated a faire greene Field, as it had beene of feirne, in which field diſperſed was ſeene flying an innume<g ref="char:EOLhyphen"/>rable companie of blacke Crowes, and other Foules which continuing a certaine time, ſent foorth moſte dreadfull ſtraunge and wonderful cryes, no leſſe rare to be recited then lamentable to regard: being in al<g ref="char:EOLhyphen"/>titude to the iudgement of the beholders not aboue 30. fadomes from the earth: with a verye obſcure and darke continuance: and not long before the vaniſhing of theſe cloudes, was heard ſo rare and horrible roa<g ref="char:EOLhyphen"/>ring (as if it had beene) the cryes of beares and lyons: yea and that ſo terrible that it was rather iudged to haue beene the ſkritching of ſome maleuolent helliſh and furious fiends: theſe preſuppoſed Crowes were of diuers credible perſons viſiblye ſeene to rent and teare whole houſes, barnes, and ſtables, yea and to pull out whole and huge trees by the rootes, in a moſt rare and wonderfull manner ranſacked and diſperſed into diuerſe places, yea and after a moſte dreadfull ſight ſome of the rafters and peeces therof, were carried vp into the aire, and after that neuer ſithens ſeene, with great ſtore of corne which at that
+<pb facs="tcp:183892:3"/> time was carried away: Likewiſe ſuch hauoke made, of trees that had ſtood a long time, as woulde almoſt exceede a truth to be ſpoken of, ſome were pulled vp by the rootes and caſt a bow ſhot from the place, other ſome cut as it had beene with an axe or ſaw, and o<g ref="char:EOLhyphen"/>ther ſome ſo ſtraungely writhen as the like hath not beene ſeene of our forefathers nor hard of our ſelues. Moreouer, and beſides al this, was ſene a moſt rare and terrible ſtratagem and perfect paterne of our impietie, for the which vnleſſe ſpéedie and ſuppliant prayers be lifted vp vnto our Lord, that it may pleaſe him of his infinite goodnes and mercie, to bee fauou<g ref="char:EOLhyphen"/>rable vnto vs, we are and ſhall be in daunger of his heauie diſpleaſure: from the which God for his infi<g ref="char:EOLhyphen"/>nite goodnes and mercies ſake deliuer vs: At that inſtant I ſay beloued, there was ſeene of diuerſe cre<g ref="char:EOLhyphen"/>dible perſons a moſt huge, great and vgly black dogg, who running along in the preſence of manye behol<g ref="char:EOLhyphen"/>ders, rent, toare, and pulled vp whole trees by the rootes, moſt wonderfull to looke vpon, which did ſo a<g ref="char:EOLhyphen"/>maze and terrifie the inhabitants there about, that they expected nothing els, but that dolefull and diſ<g ref="char:EOLhyphen"/>mall day of Doome, I meane the comming of our Lord and Sauiour Ieſus Chriſt, which no doubt ne<g ref="char:EOLhyphen"/>ther is nor can be far off. Many other rare and great tempeſts about that time were ſeene in Deuonſhier and diuers other places: the verie rumour whereof may of it ſelfe without further witnes, bee ſufficient to withdraw vs from our moſt obſtinate, ſinfull, and wicked luſtes and determinations, wherby we heape vpon our heads the heauie wrath and indignation of our Sauiour Chriſt, who I ſay (beloued) except wee ſpéedily repent and cal for grace, the multitude of our ſinnes dayly increaſing more and more, will ſuffer
+<pb facs="tcp:183892:4"/> his wrath to fall vpon vs. Looke how farre the Eaſt is from the Weſt, ſo far hath he ſet our ſinnes from vs, to thend we might repent and ſinne no more, yea euen as a father pittieth his owne children, ſo hath he compaſſion on vs, and fauourably admoniſheth vs by diuerſe examples of his indignation, to aboliſh theſe our manifold ſinnes: In ſomuch as with Ieru<g ref="char:EOLhyphen"/>ſalem by diuerſe and ſundry tokens he hath manife<g ref="char:EOLhyphen"/>ſted his fatherly clemencie vnto vs: yea euen as a hen gathereth her Chickins vnder her winges, ſo woulde he haue called vs and we would not: Verily beloued, the men of Niniuie repented at the preaching of Io<g ref="char:EOLhyphen"/>nas with aſhes and ſackcloth, and turned vnto the Lord, who had pittie and compaſſion on them: The Queene of the South ſhall ariſe againſt vs in iudge<g ref="char:EOLhyphen"/>ment, for ſhe came to heare the wiſedome of Salo<g ref="char:EOLhyphen"/>mon, and we haue greater then Salomon, or Ionas, when the Lord himſelfe admoniſheth vs by earth quakes, comets, and ſignes in the ayre: the verye Turkes, Panims, and Infidels, will ariſe in iudge<g ref="char:EOLhyphen"/>ment againſt vs, who no doubt, had they known the Lord God, or the multitude of examples that we haue ſene, would haue bin conuerted. Let vs I ſay repent, be watchfull, and vigilant that our Lord and ſauiour comming (like good ſtewards) we may make account of our liues, and be readie for the comming of our fa<g ref="char:EOLhyphen"/>ther, when he ſhall diſcend in his glorious maieſtie to iudge both the quicke and the dead: and when hee ſhall ſay come ye bleſſed of my father, inherite the kingdome which is prepared for you from the begin<g ref="char:EOLhyphen"/>ning of the world, that then I ſay we may appeare al righteous before him to aſcend with him into his glo<g ref="char:EOLhyphen"/>rious maieſtie, there to liue and remaine with him &amp; the father in glorie world without end.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:183892:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
